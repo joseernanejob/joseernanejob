@@ -45,8 +45,8 @@ Here are some ideas to get you started:
   <img src='./github-user-contribution.svg' style='margin-top: 4rem'/>
 </div>
 
-<img style='width: 100%' src="https://github-readme-stats.vercel.app/api?username=joseernanejob&show_icons=true&theme=tokyonight&border_color=5D8BF7" />
+<div style='display: flex; width: 100%; gap: 1rem; margin-top: 1rem'>
+  <img style='width: 40%' src="https://github-readme-stats.vercel.app/api?username=joseernanejob&show_icons=true&theme=tokyonight&border_color=5D8BF7" />
 
-<img style="width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseernanejob&theme=tokyonight&langs_count=10&count_private=true&layout=compact&border_color=5D8BF7" />
-
-[![HitCount](https://hits.dwyl.com/joseernanejob/https://githubcom/joseernanejob/joseernanejob.svg?style=flat-square)](http://hits.dwyl.com/joseernanejob/https://githubcom/joseernanejob/joseernanejob)
+  <img style="width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseernanejob&theme=tokyonight&langs_count=10&count_private=true&layout=compact&border_color=5D8BF7" />
+</div>
