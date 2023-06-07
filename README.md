@@ -18,14 +18,17 @@ Sou José Ernane. Sou um desenvolvedor Front-End apaixonado por tecnologia, incl
 <br>
 
 • 🔭 Atualmente, trabalho como monitor responsável por prestar assistência aos novos alunos dos primeiros módulos. Principais atividades:
-      -Contato ativo com os alunos;
-      -Correção das entregas;
-      -Assistência no canal de dúvidas;
-      -Relatórios sobre os alunos;
-      -Aplicação de testes;
-      -Competências: HTML, CSS, JavaScript e Consumo de API.
+<br>
+      -Contato ativo com os alunos;<br>
+      -Correção das entregas;<br>
+      -Assistência no canal de dúvidas;<br>
+      -Relatórios sobre os alunos;<br>
+      -Aplicação de testes;<br>
+      -Competências: HTML, CSS, JavaScript e Consumo de API.<br>
 • 🌱 Sempre estudando e aprimorando cada vez mais meus conhecimentos.
+<br>
 • 💬 Pergunte-me sobre: Tecnologia, anime, história.
+<br>
 • ⚡ Tecnologias: React, Tailwind, Styled-Components.
 
     
