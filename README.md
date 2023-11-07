@@ -24,11 +24,11 @@ Sou José Ernane. Sou um desenvolvedor Front-End apaixonado por tecnologia, incl
       -Assistência no canal de dúvidas;<br>
       -Relatórios sobre os alunos;<br>
       -Aplicação de testes;<br>
-      -Competências: HTML, CSS, JavaScript, React, Next, Nest, Express, Node, PostgreSQL, MySql, Python, Django.<br>
+      -Competências: HTML, CSS, JavaScript.<br>
 • 🌱 Sempre estudando e aprimorando cada vez mais meus conhecimentos.
 <br>
 • 💬 Pergunte-me sobre: Tecnologia, anime, história.
 <br>
-• ⚡ Tecnologias: React, Tailwind, Styled-Components.
+• ⚡ Tecnologias: React, Tailwind, Styled-Components, Next, Node, Nest, Express, Prisma, TypeORM, Python, Django.
 
     
