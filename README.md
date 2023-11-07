@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-Sou José Ernane. Sou um desenvolvedor Front-End apaixonado por tecnologia, incluindo diversas linguagens de programação.
+Sou José Ernane. Sou um desenvolvedor Full-Stack focado em Back-end, apaixonado por tecnologia, incluindo diversas linguagens de programação.
 <br>
 
 • 🔭 Atualmente, trabalho como monitor responsável por prestar assistência aos novos alunos dos primeiros módulos. Principais atividades:
