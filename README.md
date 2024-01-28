@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 Sou José Ernane. Sou um desenvolvedor Full-Stack focado em Back-end, apaixonado por tecnologia, incluindo diversas linguagens de programação.
 <br>
 
-• 🔭 Atualmente, trabalho como monitor responsável por prestar assistência aos novos alunos dos primeiros módulos. Principais atividades:
+• 🔭 Atualmente, trabalho como monitor responsável por prestar assistência aos alunos dos módulos de Front-end.
 <br>
-      -Contato ativo com os alunos;<br>
-      -Correção das entregas;<br>
-      -Assistência no canal de dúvidas;<br>
-      -Relatórios sobre os alunos;<br>
-      -Aplicação de testes;<br>
-      -Competências: HTML, CSS, JavaScript, Typescript, React, Sass, Comsumo de API.<br>
+      - Contato ativo com os alunos;<br>
+      - Correção das entregas;<br>
+      - Correção de bugs;<br>
+      - Assistência no canal de dúvidas sobre programação;<br>
+      - Relatórios sobre desempenho técnico dos alunos;;<br>
+      - Aplicação de testes;<br>
+      - Competência: HTML, CSS, Javascript, Typescript, React, Sass, Consumo de API.<br>
 • 🌱 Sempre estudando e aprimorando cada vez mais meus conhecimentos.
 <br>
 • 💬 Pergunte-me sobre: Tecnologia, anime, história.
