@@ -23,13 +23,14 @@ Sou José Ernane. Sou um desenvolvedor Full-Stack focado em Back-end, apaixonado
       - Correção das entregas;<br>
       - Correção de bugs;<br>
       - Assistência no canal de dúvidas sobre programação;<br>
-      - Relatórios sobre desempenho técnico dos alunos;;<br>
+      - Relatórios sobre desempenho técnico dos alunos;<br>
       - Aplicação de testes;<br>
       - Competência: HTML, CSS, Javascript, Typescript, React, Sass, Consumo de API.<br>
 • 🌱 Sempre estudando e aprimorando cada vez mais meus conhecimentos.
 <br>
 • 💬 Pergunte-me sobre: Tecnologia, anime, história.
 <br>
-• ⚡ Tecnologias: React, Tailwind, Styled-Components, Sass, Next, Node, Nest, Express, Prisma, TypeORM, Java, SpringBoot.
-
+• ☀️ Front-End: React, Tailwind, Styled-Components, Sass, Next.
+<br>
+• 🌑 Back-End: Node, Express, Prisma, TypeORM, Nest, Java, Spring-Boot, Spring-Security.
     
