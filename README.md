@@ -32,5 +32,5 @@ Sou José Ernane. Sou um desenvolvedor Full-Stack focado em Back-end, apaixonado
 <br>
 • ☀️ Front-End: React, Tailwind, Styled-Components, Sass, Next.
 <br>
-• 🌑 Back-End: Node, Express, Prisma, TypeORM, Nest, Java, Spring-Boot, Spring-Security.
+• 🌑 Back-End: Node, Nest, Express, Prisma, TypeORM, Java, Spring-Boot, Spring-Security.
     
